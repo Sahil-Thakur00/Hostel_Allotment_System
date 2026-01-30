@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     USER ||--o{ COMPLAINT : raises
     LOCATION ||--o{ COMPLAINT : occurs_at
